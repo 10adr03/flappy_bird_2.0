@@ -14,4 +14,4 @@
 3. *Losing mechanic: The game ends when the bird touches the edge of the screen or collides with a pipe.*<br>
 
 ## Contributions
-*Please open a ticket in the Issues section of this repository, or submit a pull request with your changes, if you want to add new features, improve the game, or report a bug.*
+*If you would like to contribute to the development of this project, please have a look at the CONTRIBUTING.md file for more details.*
