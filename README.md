@@ -1,4 +1,4 @@
-~This project contains an improvised version of the 'Flappy Bird' game, made with Unity 3D software in my first year of university.
+~This project contains an improvised version of the 'Flappy Bird' game, made with Unity 2D software in my first year of university.
 
 ~How to download the game 
 1.Unzip the flappy_bird_2.0 file
