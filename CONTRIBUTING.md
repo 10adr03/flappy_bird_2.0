@@ -17,5 +17,5 @@
 
 ## Reporting Bugs
 
-If you find bugs in my project, please report them in the "Issues" section of this repository. Be sure to provide clear and complete details about the problem you encountered. This should include the steps you took to reproduce the problem, and the development environment you used.
+*If you find bugs in my project, please report them in the "Issues" section of this repository. Be sure to provide clear and complete details about the problem you encountered. This should include the steps you took to reproduce the problem, and the development environment you used.*
 
