@@ -3,7 +3,7 @@
 
 ## How to download the game
 1. *Unzip the flappy_bird_2.0 (part1&2) files and put them in the same folder.*<br>
-2. *In the folder you will find the files. Click on the file named 'My Project.exe'.*<br> 
+2. *In the folder you will find 6 files. Click on the file named 'My Project.exe'.*<br> 
 3. *Fun fact: you don't need unity to run the game, enjoy ;).*<br> 
 
 ## P.S: you control the bird with space.
