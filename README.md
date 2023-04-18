@@ -2,8 +2,8 @@
 *This project contains an improvised version of the 'Flappy Bird' game, made with Unity 2D software in my first year of college.*
 
 ## How to download the game
-1. *Unzip the flappy_bird_2.0 file.*<br>
-2. *In the folder with the acronym you will find 3 files. Click on the file named 'My Project.exe'.*<br> 
+1. *Unzip the flappy_bird_2.0 (part1&2) files and put them in the same folder.*<br>
+2. *In the folder you will find the files. Click on the file named 'My Project.exe'.*<br> 
 3. *Fun fact: you don't need unity to run the game, enjoy ;).*<br> 
 
 ## P.S: you control the bird with space.
